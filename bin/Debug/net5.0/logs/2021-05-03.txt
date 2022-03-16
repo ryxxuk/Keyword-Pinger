@@ -1,0 +1,114 @@
+07:04:09 [Info] Discord: Discord.Net v2.3.0 (API v6)
+07:04:10 [Info] Gateway: Connecting
+07:04:11 [Info] Gateway: Connected
+07:04:11 [Info] Gateway: Ready
+07:04:27 [Msg] Successful command 'add' executed by user: 'ryxx'.
+07:04:35 [Msg] Successful command 'add' executed by user: 'ryxx'.
+07:04:40 [Msg] Successful command 'view' executed by user: 'ryxx'.
+07:04:44 [Msg] Successful command 'view' executed by user: 'ryxx'.
+07:04:50 [Msg] Successful command 'remove' executed by user: 'ryxx'.
+07:04:56 [Msg] Successful command 'view' executed by user: 'ryxx'.
+07:09:05 [Info] Discord: Discord.Net v2.3.0 (API v6)
+07:09:05 [Info] Gateway: Connecting
+07:09:06 [Info] Gateway: Connected
+07:09:06 [Info] Gateway: Ready
+07:10:42 [Info] Discord: Discord.Net v2.3.0 (API v6)
+07:10:42 [Info] Gateway: Connecting
+07:10:43 [Info] Gateway: Connected
+07:10:44 [Info] Gateway: Ready
+07:11:02 [Msg] Successful command 'add' executed by user: 'ryxx'.
+07:11:08 [Msg] Successful command 'view' executed by user: 'ryxx'.
+07:12:23 [Info] Discord: Discord.Net v2.3.0 (API v6)
+07:12:23 [Info] Gateway: Connecting
+07:12:24 [Info] Gateway: Connected
+07:12:24 [Info] Gateway: Ready
+07:12:28 [Msg] Invalid command '.kw add' attempted by user:'ryxx' The input text has too few parameters.
+07:12:36 [Msg] Successful command 'add' executed by user: 'ryxx'.
+07:23:58 [Info] Discord: Discord.Net v2.3.0 (API v6)
+07:23:58 [Info] Gateway: Connecting
+07:23:59 [Info] Gateway: Connected
+07:24:00 [Info] Gateway: Ready
+07:24:11 [Msg] Successful command 'add' executed by user: 'ryxx'.
+07:24:17 [Msg] Invalid command '.kw test' attempted by user:'ryxx' Unknown command.
+07:24:24 [Msg] Successful command 'view' executed by user: 'ryxx'.
+08:03:42 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:03:42 [Info] Gateway: Connecting
+08:03:43 [Info] Gateway: Connected
+08:03:44 [Info] Gateway: Ready
+08:04:09 [Msg] Invalid command '.kw add' attempted by user:'ryxx' The input text has too few parameters.
+08:04:28 [Msg] Successful command 'role add' executed by user: 'ryxx'.
+08:04:35 [Msg] Invalid command '.kw view <@&798626270648729660>' attempted by user:'ryxx' The input text has too many parameters.
+08:04:45 [Msg] Successful command 'role view' executed by user: 'ryxx'.
+08:06:55 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:06:55 [Info] Gateway: Connecting
+08:06:56 [Info] Gateway: Connected
+08:06:56 [Info] Gateway: Ready
+08:07:09 [Msg] Successful command 'role add' executed by user: 'ryxx'.
+08:07:29 [Msg] Successful command 'role view' executed by user: 'ryxx'.
+08:09:41 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:09:42 [Info] Gateway: Connecting
+08:09:42 [Info] Gateway: Connected
+08:09:43 [Info] Gateway: Ready
+08:10:06 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:10:07 [Info] Gateway: Connecting
+08:10:07 [Info] Gateway: Connected
+08:10:08 [Info] Gateway: Ready
+08:10:12 [Msg] Successful command 'role add' executed by user: 'ryxx'.
+08:10:16 [Msg] Successful command 'role view' executed by user: 'ryxx'.
+08:11:08 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:11:08 [Info] Gateway: Connecting
+08:11:09 [Info] Gateway: Connected
+08:11:10 [Info] Gateway: Ready
+08:11:19 [Msg] Successful command 'role add' executed by user: 'ryxx'.
+08:11:25 [Msg] Successful command 'role view' executed by user: 'ryxx'.
+08:11:39 [Msg] Successful command 'addchannel' executed by user: 'ryxx'.
+08:12:09 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:12:09 [Info] Gateway: Connecting
+08:12:10 [Info] Gateway: Connected
+08:12:10 [Info] Gateway: Ready
+08:12:14 [Msg] Successful command 'addchannel' executed by user: 'ryxx'.
+08:12:18 [Msg] Successful command 'role add' executed by user: 'ryxx'.
+08:26:46 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:26:46 [Info] Gateway: Connecting
+08:26:47 [Info] Gateway: Connected
+08:26:47 [Info] Gateway: Ready
+08:26:53 [Msg] Successful command 'help' executed by user: 'ryxx'.
+08:27:26 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:27:27 [Info] Gateway: Connecting
+08:27:27 [Info] Gateway: Connected
+08:27:28 [Info] Gateway: Ready
+08:27:34 [Msg] Successful command 'help' executed by user: 'ryxx'.
+08:38:34 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:38:34 [Info] Gateway: Connecting
+08:38:35 [Info] Gateway: Connected
+08:38:35 [Info] Gateway: Ready
+08:38:40 [Msg] Successful command 'help' executed by user: 'ryxx'.
+08:40:09 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:40:10 [Info] Gateway: Connecting
+08:40:10 [Info] Gateway: Connected
+08:40:11 [Info] Gateway: Ready
+08:40:14 [Msg] Successful command 'help' executed by user: 'ryxx'.
+08:40:18 [Msg] Successful command 'admin help' executed by user: 'ryxx'.
+08:40:46 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:40:46 [Info] Gateway: Connecting
+08:40:47 [Info] Gateway: Connected
+08:40:47 [Info] Gateway: Ready
+08:40:50 [Msg] Successful command 'admin help' executed by user: 'ryxx'.
+08:42:58 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:42:59 [Info] Gateway: Connecting
+08:42:59 [Info] Gateway: Connected
+08:43:00 [Info] Gateway: Ready
+08:43:58 [Msg] Successful command 'admin help' executed by user: 'ryxx'.
+08:45:06 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:45:06 [Info] Gateway: Connecting
+08:45:07 [Info] Gateway: Connected
+08:45:07 [Info] Gateway: Ready
+08:45:15 [Msg] Successful command 'channel add' executed by user: 'ryxx'.
+08:45:21 [Msg] Successful command 'channel view' executed by user: 'ryxx'.
+09:02:57 [Info] Discord: Discord.Net v2.3.0 (API v6)
+09:02:58 [Info] Gateway: Connecting
+09:02:59 [Info] Gateway: Connected
+09:02:59 [Info] Gateway: Ready
+09:03:07 [Msg] Successful command 'channel add' executed by user: 'ryxx'.
+09:03:24 [Msg] Successful command 'embed add' executed by user: 'ryxx'.
+09:03:33 [Msg] Successful command 'embed view' executed by user: 'ryxx'.

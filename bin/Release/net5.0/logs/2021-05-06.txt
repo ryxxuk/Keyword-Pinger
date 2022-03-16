@@ -1,0 +1,4 @@
+10:34:28 [Info] Discord: Discord.Net v2.3.0 (API v6)
+10:34:29 [Info] Gateway: Connecting
+10:34:30 [Info] Gateway: Connected
+10:34:30 [Info] Gateway: Ready

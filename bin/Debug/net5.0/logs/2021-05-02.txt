@@ -1,0 +1,192 @@
+08:13:54 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:13:55 [Info] Gateway: Connecting
+08:15:06 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:15:06 [Info] Gateway: Connecting
+08:15:07 [Info] Gateway: Connected
+08:15:08 [Info] Gateway: Ready
+08:16:47 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:16:48 [Info] Gateway: Connecting
+08:16:48 [Info] Gateway: Connected
+08:16:49 [Info] Gateway: Ready
+08:16:52 [Msg] Successful command ' add' executed by user: 'ryxx'.
+08:17:11 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:17:12 [Info] Gateway: Connecting
+08:17:13 [Info] Gateway: Connected
+08:17:13 [Info] Gateway: Ready
+08:17:15 [Msg] Successful command ' add' executed by user: 'ryxx'.
+08:17:48 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:17:49 [Info] Gateway: Connecting
+08:17:49 [Info] Gateway: Connected
+08:17:50 [Info] Gateway: Ready
+08:17:52 [Msg] Invalid command '.kw add test' attempted by user:'ryxx' Unknown command.
+08:18:00 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:18:01 [Info] Gateway: Connecting
+08:18:01 [Info] Gateway: Connected
+08:18:02 [Info] Gateway: Ready
+08:18:17 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:18:18 [Info] Gateway: Connecting
+08:18:23 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:18:23 [Info] Gateway: Connecting
+08:18:24 [Info] Gateway: Connected
+08:18:24 [Info] Gateway: Ready
+08:18:33 [Msg] Invalid command '.kw add test' attempted by user:'ryxx' Unknown command.
+08:18:45 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:18:46 [Info] Gateway: Connecting
+08:18:46 [Info] Gateway: Connected
+08:18:47 [Info] Gateway: Ready
+08:19:18 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:19:19 [Info] Gateway: Connecting
+08:19:19 [Info] Gateway: Connected
+08:19:20 [Info] Gateway: Ready
+08:21:31 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:21:31 [Info] Gateway: Connecting
+08:21:32 [Info] Gateway: Connected
+08:21:32 [Info] Gateway: Ready
+08:21:45 [Msg] Successful command ' add' executed by user: 'ryxx'.
+08:22:16 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Unknown command.
+08:22:32 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:22:32 [Info] Gateway: Connecting
+08:22:33 [Info] Gateway: Connected
+08:22:34 [Info] Gateway: Ready
+08:22:39 [Msg] Successful command ' add' executed by user: 'ryxx'.
+08:22:45 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:23:48 [Msg] Invalid command '.kw addchanel <#692090692926832714>' attempted by user:'BotNet' Unknown command.
+08:24:01 [Msg] Invalid command '.kw addchannel <#692090692926832714>' attempted by user:'BotNet' Channel not found.
+08:24:16 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:24:17 [Info] Gateway: Connecting
+08:24:17 [Info] Gateway: Connected
+08:24:18 [Info] Gateway: Ready
+08:24:22 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:24:35 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:24:36 [Info] Gateway: Connecting
+08:24:36 [Info] Gateway: Connected
+08:24:37 [Info] Gateway: Ready
+08:24:39 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:24:54 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:24:55 [Info] Gateway: Connecting
+08:24:56 [Info] Gateway: Connected
+08:24:56 [Info] Gateway: Ready
+08:24:58 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:25:44 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:25:45 [Info] Gateway: Connecting
+08:25:45 [Info] Gateway: Connected
+08:25:46 [Info] Gateway: Ready
+08:25:48 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:25:48 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'BotNet' Channel not found.
+08:26:38 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:26:39 [Info] Gateway: Connecting
+08:26:39 [Info] Gateway: Connected
+08:26:40 [Info] Gateway: Ready
+08:26:42 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:29:32 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:29:32 [Info] Gateway: Connecting
+08:29:33 [Info] Gateway: Connected
+08:29:33 [Info] Gateway: Ready
+08:29:49 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:30:44 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:30:44 [Info] Gateway: Connecting
+08:30:45 [Info] Gateway: Connected
+08:30:45 [Info] Gateway: Ready
+08:30:50 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:30:51 [Warning] Gateway: A MessageReceived handler is blocking the gateway task.
+08:36:54 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:36:54 [Info] Gateway: Connecting
+08:36:55 [Info] Gateway: Connected
+08:36:55 [Info] Gateway: Ready
+08:37:01 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:37:15 [Msg] Invalid command '.kw addchannel <#748193393196400689>' attempted by user:'ryxx' Channel not found.
+08:40:01 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:40:02 [Info] Gateway: Connecting
+08:40:03 [Info] Gateway: Connected
+08:40:03 [Info] Gateway: Ready
+08:40:10 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:40:23 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:40:23 [Info] Gateway: Connecting
+08:40:24 [Info] Gateway: Connected
+08:40:24 [Info] Gateway: Ready
+08:40:28 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:41:01 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:41:02 [Info] Gateway: Connecting
+08:41:03 [Info] Gateway: Connected
+08:41:03 [Info] Gateway: Ready
+08:41:05 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:41:25 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:41:26 [Info] Gateway: Connecting
+08:41:26 [Info] Gateway: Connected
+08:41:27 [Info] Gateway: Ready
+08:41:29 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:44:01 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:44:02 [Info] Gateway: Connecting
+08:44:02 [Info] Gateway: Connected
+08:44:03 [Info] Gateway: Ready
+08:44:06 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:44:17 [Msg] Invalid command '.kw addchannel 736983724356403260' attempted by user:'ryxx' Channel not found.
+08:45:52 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:45:53 [Info] Gateway: Connecting
+08:45:53 [Info] Gateway: Connected
+08:45:54 [Info] Gateway: Ready
+08:46:01 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' Channel not found.
+08:46:26 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:46:26 [Info] Gateway: Connecting
+08:46:27 [Info] Gateway: Connected
+08:46:27 [Info] Gateway: Ready
+08:46:30 [Msg] Invalid command '.kw addchannel <#736983724356403260>' attempted by user:'ryxx' The input text has too many parameters.
+08:47:06 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:47:07 [Info] Gateway: Connecting
+08:47:08 [Info] Gateway: Connected
+08:47:08 [Info] Gateway: Ready
+08:47:43 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:47:44 [Info] Gateway: Connecting
+08:47:44 [Info] Gateway: Connected
+08:47:45 [Info] Gateway: Ready
+08:48:23 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:48:23 [Info] Gateway: Connecting
+08:48:24 [Info] Gateway: Connected
+08:48:25 [Info] Gateway: Ready
+08:48:27 [Msg] Successful command 'addchannel' executed by user: 'ryxx'.
+08:48:29 [Msg] Successful command 'addchannel' executed by user: 'ryxx'.
+08:48:39 [Msg] Successful command 'add' executed by user: 'ryxx'.
+08:53:46 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:53:47 [Info] Gateway: Connecting
+08:53:47 [Info] Gateway: Connected
+08:53:48 [Info] Gateway: Ready
+08:53:54 [Msg] Successful command 'addchannel' executed by user: 'ryxx'.
+08:54:00 [Msg] Successful command 'add' executed by user: 'ryxx'.
+08:57:45 [Info] Discord: Discord.Net v2.3.0 (API v6)
+08:57:46 [Info] Gateway: Connecting
+08:57:46 [Info] Gateway: Connected
+08:57:47 [Info] Gateway: Ready
+08:57:51 [Msg] Successful command 'addchannel' executed by user: 'ryxx'.
+08:57:54 [Msg] Successful command 'add' executed by user: 'ryxx'.
+09:08:03 [Info] Discord: Discord.Net v2.3.0 (API v6)
+09:08:04 [Info] Gateway: Connecting
+09:08:05 [Info] Gateway: Connected
+09:08:05 [Info] Gateway: Ready
+09:08:15 [Msg] Successful command 'addchannel' executed by user: 'ryxx'.
+09:08:19 [Msg] Successful command 'add' executed by user: 'ryxx'.
+09:09:48 [Info] Discord: Discord.Net v2.3.0 (API v6)
+09:09:49 [Info] Gateway: Connecting
+09:09:50 [Info] Gateway: Connected
+09:09:50 [Info] Gateway: Ready
+09:10:03 [Warning] Gateway: A MessageReceived handler is blocking the gateway task.
+09:10:32 [Info] Discord: Discord.Net v2.3.0 (API v6)
+09:10:32 [Info] Gateway: Connecting
+09:10:33 [Info] Gateway: Connected
+09:10:33 [Info] Gateway: Ready
+09:10:38 [Msg] Successful command 'addchannel' executed by user: 'ryxx'.
+09:10:41 [Msg] Successful command 'add' executed by user: 'ryxx'.
+09:11:10 [Msg] Successful command 'add' executed by user: 'BotNet'.
+09:31:20 [Info] Discord: Discord.Net v2.3.0 (API v6)
+09:31:21 [Info] Gateway: Connecting
+09:31:21 [Info] Gateway: Connected
+09:31:22 [Info] Gateway: Ready
+09:31:27 [Msg] Successful command 'addchannel' executed by user: 'ryxx'.
+09:31:29 [Msg] Successful command 'add' executed by user: 'ryxx'.
+09:31:36 [Msg] Successful command 'add' executed by user: 'BotNet'.
+09:32:00 [Info] Discord: Discord.Net v2.3.0 (API v6)
+09:32:00 [Info] Gateway: Connecting
+09:32:01 [Info] Gateway: Connected
+09:32:01 [Info] Gateway: Ready
+09:32:18 [Msg] Successful command 'addchannel' executed by user: 'ryxx'.
+09:32:21 [Msg] Successful command 'add' executed by user: 'ryxx'.
+09:35:52 [Msg] Successful command 'add' executed by user: 'BotNet'.
