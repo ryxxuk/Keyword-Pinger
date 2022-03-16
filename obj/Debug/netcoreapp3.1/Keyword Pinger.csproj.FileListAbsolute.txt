@@ -1,5 +1,0 @@
-C:\Users\ryanp\source\repos\Discord Bots\Keyword Pinger\obj\Debug\netcoreapp3.1\Keyword Pinger.csprojAssemblyReference.cache
-C:\Users\ryanp\source\repos\Discord Bots\Keyword Pinger\obj\Debug\netcoreapp3.1\Keyword Pinger.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ryanp\source\repos\Discord Bots\Keyword Pinger\obj\Debug\netcoreapp3.1\Keyword Pinger.AssemblyInfoInputs.cache
-C:\Users\ryanp\source\repos\Discord Bots\Keyword Pinger\obj\Debug\netcoreapp3.1\Keyword Pinger.AssemblyInfo.cs
-C:\Users\ryanp\source\repos\Discord Bots\Keyword Pinger\obj\Debug\netcoreapp3.1\Keyword Pinger.csproj.CoreCompileInputs.cache
